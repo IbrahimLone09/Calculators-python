@@ -22,3 +22,10 @@ A basic cacultor that performs common arithmetic operations
 
 
 MUltiplication is : 50
+
+## INTEREST CALCULATOR
+This calcultors is slightly advanced then the simple calculator as it claculates differents types of interests based on user preferences.
+
+## Feature
+one can use following features using this interest calculator
+- 
