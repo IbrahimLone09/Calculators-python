@@ -28,4 +28,12 @@ This calcultors is slightly advanced then the simple calculator as it claculates
 
 ## Feature
 one can use following features using this interest calculator
-- 
+- Multiple user inputs
+- Multiple interest choices
+
+simple interest
+
+compound interest
+
+continous compound interest
+
