@@ -77,8 +77,12 @@ while buildings these programs i practiced:
 - function uses
 - writing simple interactive programs
 
-## Author
- Ibrahim lone
+
+👨‍💻 Author
+
+Ibrahim Lone
+
+
 
 
 
